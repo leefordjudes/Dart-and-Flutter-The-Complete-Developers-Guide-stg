@@ -1,0 +1,13 @@
+**/.dart_tool/**
+**/.idea/**
+**/build/**
+
+
+**/android/**
+**/windows/**
+**/web/**
+**/macos/**
+**/linux/**
+**/ios/**
+**/test/**
+**/build/**
