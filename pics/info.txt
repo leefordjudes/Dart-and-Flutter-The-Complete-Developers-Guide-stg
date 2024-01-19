@@ -1,0 +1,31 @@
+> flutter clean
+
+> flutter run
+    [1]: Windows (windows)
+    [2]: Chrome (chrome)
+    [3]: Edge (edge)
+    Please choose one (or "q" to quit): 1
+
+Installing packages => packages are added in pubspec.yaml
+> flutter pub add http
+> flutter pub outdated
+> flutter pub upgrade --major-versions
+
+Widget Ref:
+https://api.flutter.dev/flutter/material/Scaffold-class.html
+https://api.flutter.dev/flutter/material/AppBar-class.html
+https://api.flutter.dev/flutter/material/FloatingActionButton-class.html
+https://fonts.google.com/icons?selected=Material+Icons:add:&icon.query=add&icon.platform=flutter
+
+https://jsonplaceholder.typicode.com/photos
+
+
+https://docs.flutter.dev/ui/layout
+
+https://docs.flutter.dev/ui/layout/tutorial
+
+https://docs.flutter.dev/ui/widgets/layout
+    Single-child layout widgets
+    Multi-child layout widgets
+    Sliver widgets
+

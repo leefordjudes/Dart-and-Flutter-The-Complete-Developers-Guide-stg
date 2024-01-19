@@ -1,0 +1,15 @@
+dart --version
+
+dart run main.dart
+
+dart compile exe main.dart
+
+https://api.dart.dev/stable/3.2.3/index.html
+
+https://jsonplaceholder.typicode.com
+
+dart pub get
+dart pub outdated
+dart pub upgrade
+
+134 - Lets Build a Game

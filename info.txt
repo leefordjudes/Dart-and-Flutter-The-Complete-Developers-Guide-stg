@@ -1,0 +1,26 @@
+ref:
+https://docs.flutter.dev/reference/flutter-cli
+
+flutter create pics
+
+cd pics
+
+flutter run
+
+select 1 for windows
+
+flutter clean
+
+hot restart: Shift+R
+
+https://fonts.google.com/icons
+
+https://jsonplaceholder.typicode.com
+
+
+11 - HTTP Requests with Flutter
+84 - Working with JSON
+
+dart fix
+
+dart --disable-analytics
