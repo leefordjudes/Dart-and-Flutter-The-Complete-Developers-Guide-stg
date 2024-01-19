@@ -1,3 +1,8 @@
+Run the project in this repo:
+go to selected project folder and create flutter project
+    
+    flutter create . --platforms windows
+
 ref:
 https://docs.flutter.dev/reference/flutter-cli
 
